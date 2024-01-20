@@ -1,3 +1,4 @@
+![logo](BANNER.png)
 <h3 align="center">A passionate developer from India</h3>
 
 <img align="right" alt ="coding" width="400" src="https://drive.google.com/file/d/13edCADaD9h40yurq8XIOzWUHci9xJms_/view?usp=sharing">
