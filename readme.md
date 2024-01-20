@@ -1,11 +1,11 @@
 ![logo](BANNER.png)
 <h3 align="center">A passionate developer from India</h3>
 
-<img align="right" alt ="coding" width="400" src="https://drive.google.com/file/d/13edCADaD9h40yurq8XIOzWUHci9xJms_/view?usp=sharing">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthvadhaiya97&label=Profile%20views&color=0e75b6&style=flat" alt="parthvadhaiya97" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/parthvadhaiya1" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/parthvadhaiya1?logo=twitter&style=for-the-badge" alt="https://twitter.com/parthvadhaiya1" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
